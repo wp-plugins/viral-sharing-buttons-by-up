@@ -122,21 +122,27 @@ h1,h2,h3,h4,h5,h6,ul,li{
     font-size: 18px;
     font-weight: bold;
     margin-left: 18px;
-    padding: 12px;
-    width: 24%;
+    padding: 15px;
+    width: 30%;
+    margin-top:10px;
+    text-decoration: none;
 }
 
 
-.partner-botton:hover	{padding:12px; width:24%; border:none; border-radius:4px; background-color:#fff !important; color:#363636; margin-left:18px;}
+.partner-botton:hover	{
+	padding:15px; width:30%; border:none; border-radius:4px; background-color:#fff !important; color:#363636; margin-left:18px;
+	text-decoration: none;
+	}
 
 .partner-bottom{	
 	color:#898989;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:18px;	
 	float:right; 
-	margin-top:0px;
+	margin-top:10px;
 	width:100%;
 	text-align:right;
+	padding
 	
 }
 

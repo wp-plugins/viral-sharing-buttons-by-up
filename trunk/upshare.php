@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: UP Viral Sharing Buttons
-Version: 1.0.0
+Version: 1.0.1
 Author: UP
 Author URI: http://www.upshare.co
 Description: The Viral Sharing Plugin from UP changes the way sites go viral. As users share content from your site, they earn points they can cash in for cool stuff.
@@ -16,7 +16,7 @@ License: GPLv2 or later
 
 function setup_theme_admin_menus() {
 	
-    add_menu_page(__('UP','menu-test'), __('UP','menu-test'), 'manage_options', 'upshare-settings-page', 'upshare_settings' , plugins_url( 'upshare/images/menu-icon2.png' ) );
+    add_menu_page(__('UP','menu-test'), __('UP','menu-test'), 'manage_options', 'upshare-settings-page', 'upshare_settings' , plugins_url( 'viral-sharing-buttons-by-up/images/menu-icon2.png' ) );
    
    $partner_id = get_option("partner_id");   
     
@@ -109,10 +109,8 @@ function upshare_settings() {
 	<div class="wrapper">
             	<div class="partner-id-main-contant1">
                		<h1>UP is currently configured on your site</h1>
-                     <form action="http://www.upshare.co/partners/sign_in">
-                     	<input  class="partner-botton"  type="submit" value="My Dashboard"> 
-                     </form>            		
-                    </div>
+                     <div align="center" style="padding-top: 10px;"><a class="partner-botton" href="http://www.upshare.co/partners/sign_in?" target="_blank">My Dashboard</a></div>
+                 </div>
 			</div>
 </section>
 
