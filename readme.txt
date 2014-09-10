@@ -12,6 +12,8 @@ The Viral Sharing Buttons from UP change the way sites go viral. Users share con
 == Description ==
 [vimeo http://vimeo.com/105724953]
 
+<div align="center">[Get Started](http://downloads.wordpress.org/plugin/daily-fitness-tips.zip)</div>
+
 Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons. With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. 
 
 Our points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient.
