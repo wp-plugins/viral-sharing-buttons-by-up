@@ -7,10 +7,10 @@ Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Viral Sharing Plugin from UP changes the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff. 
+The Viral Sharing Buttons from UP changes the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff. 
 
 == Description ==
-Get more traffic on your site and increase viral interaction by installing the UP Sharing plugin. With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. 
+Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons. With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. 
 
 Our points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient.
 
@@ -38,6 +38,11 @@ What’s more, by signing up as an [UP Partner](https://www.upshare.co/partners/
 <ol>
 <li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area and activate.</li>
 </ol>
+
+== Screenshots ==
+ 
+1. Responsive sharing widget
+2. Encourage viral sharing
 
 == Frequently Asked Questions ==
 There are no FAQ just yet.

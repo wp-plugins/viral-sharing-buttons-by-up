@@ -7,7 +7,6 @@ Plugin Name: UP Viral Sharing Buttons
 Version: 1.0.2
 Author: UP
 Author URI: http://www.upshare.co
-Description: The Viral Sharing Plugin from UP changes the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff. 
 License: GPLv2 or later
 */
 
