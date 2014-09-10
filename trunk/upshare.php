@@ -101,6 +101,7 @@ function upshare_settings() {
                		<h1>You've got the widget - now go viral with<span> UP </span></h1>
 <p style="padding-left:40px;padding-right:40px;">Every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.</p>
          		</div>
+         		
      </div> 
 </section>
 
@@ -151,6 +152,12 @@ function upshare_settings() {
              
         	 </div>
         	 </div> 
+        	 
+        	          		<div align="center">
+                	
+                	<iframe src="//player.vimeo.com/video/105724953?byline=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                </div>
+        	 
      </div> 
 </section>
 
@@ -158,7 +165,7 @@ function upshare_settings() {
 	<div class="wrapper">
         <div class="row">
         <div class="footer-text">
-            <p><a href="https://www.upshare.co/partners/sign_up" target="_blank">Learn More About <b>UP</b></a></p>
+            <p><a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank">Learn More About <b>UP</b></a></p>
          </div>
          </div>
      </div> 
@@ -188,6 +195,12 @@ function upshare_settings() {
                		<h1>You've got the widget - now go viral with<span> UP </span></h1>
 <p><a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank">Create a free account</a> and then enter your partner ID below.  Now every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.</p>
                 </div>
+                
+                <div align="center">
+                	
+                	<iframe src="//player.vimeo.com/video/105724953?byline=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                </div>
+                
 			</div>
                   
         </div> 
@@ -246,7 +259,7 @@ function upshare_settings() {
 	<div class="wrapper">
         <div class="row">
         <div class="footer-text">
-            <p><a href="http://www.upshare.co/partners/sign_up/" target="_blank">Learn More About <b>UP</b></a></p>
+            <p><a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank">Learn More About <b>UP</b></a></p>
          </div>
          </div>
      </div> 
