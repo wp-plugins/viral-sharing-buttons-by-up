@@ -1,9 +1,9 @@
 ﻿=== Viral Sharing Buttons by UP ===
-Contributors: simonturner
+Contributors: upshare
 Tags: add to any, AddThis, addtoany, admin, bitly, bookmark, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, e-mail, email, Facebook, facebook like, facebook share, floating, floating buttons, google, google +1, google plus, google plus one, icon, icons, image, images, Like, linkedin, links, lockerz, page, pages, plugin, plus 1, plus one, Post, posts, print, Reddit, responsive, save, seo, Share, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social share, social sharing, socialize, statistics, stats, stumbleupon, svg, tumblr, tweet, tweet button, twitter, twitter button, twitter share, vector, wanelo, whatsapp, widget, wpmu
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,8 +43,7 @@ What’s more, by signing up as an [UP Partner](https://www.upshare.co/partners/
 
 == Screenshots ==
  
-1. Responsive sharing widget
-2. Encourage viral sharing
+1. UP Sharing Widget
 
 == Changelog ==
 = 1.0.4 =
