@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: UP Viral Sharing Buttons
-Version: 1.0.11
+Version: 1.0.1
 Author: UP
 Author URI: http://www.upshare.co
 License: GPLv2 or later
@@ -87,7 +87,7 @@ function upshare_settings() {
 <section id="header">
 
 	<div class="wrapper">
-            	<div class="logo"><a href="http://www.upshare.co"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</a></div>
+            	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right" style="display:none;">
                     	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank"><b> Sign Up</b></a>
 			       </div>
@@ -180,7 +180,7 @@ function upshare_settings() {
 
 <section id="header">
 	<div class="wrapper">
-            	<div class="logo"><a href="http://www.upshare.co"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</a></div>
+            	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right">
                     	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank"><b> Sign Up</b></a>
 			       </div>
