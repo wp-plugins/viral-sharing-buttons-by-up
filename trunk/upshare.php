@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: UP Viral Sharing Buttons
-Version: 1.0.1
+Version: 1.2
 Author: UP
 Author URI: http://www.upshare.co
 License: GPLv2 or later
