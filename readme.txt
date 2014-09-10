@@ -46,11 +46,8 @@ What’s more, by signing up as an [UP Partner](https://www.upshare.co/partners/
 1. UP Sharing Widget
 
 == Changelog ==
-= 1.2 = First release
-
-1.2.1 Minor fixes
-1.2.2 Minor fixes
-1.2.3 Minor fixes
+= 1.2.3 = 
+* First release
 
 == Upgrade Notice ==
 There is no need to upgrade just yet.
