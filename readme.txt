@@ -50,5 +50,10 @@ What’s more, by signing up as an [UP Partner](https://www.upshare.co/partners/
 
 = 1.2 Minor fixes
 
+= 1.2.1 Minor fixes
+
+= 1.2.2 Minor fixes
+
+= 1.2.3 Minor fixes
 == Upgrade Notice ==
 There is no need to upgrade just yet.
