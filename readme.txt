@@ -16,7 +16,7 @@ Get more traffic on your site and increase viral interaction by installing the U
 
 Our points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient.
 
-What’s more, by signing up as an [UP Partner](https://www.upshare.co/partners/sign_up?origin=wp) for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
+What’s more by signing up as an [UP Partner](https://www.upshare.co/partners/sign_up?origin=wp) for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
 
 = Plugin Features =
 
