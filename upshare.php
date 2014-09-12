@@ -11,9 +11,6 @@ Description: The Viral Sharing Buttons from UP change the way sites go viral. Us
 License: GPLv2 or later
 */
 
-//When Plugin is  Activated
-
-
 function setup_theme_admin_menus() {
 	
     add_menu_page(__('UP','menu-test'), __('UP','menu-test'), 'manage_options', 'upshare-settings-page', 'upshare_settings' , plugins_url( 'viral-sharing-buttons-by-up/images/menu-icon2.png' ) );
