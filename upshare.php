@@ -323,8 +323,8 @@ function admin_notice_message(){
 	if($partner_id==""){
 		if($upshare_notice==""){	
 		   echo '<div class="updated" id="upshare_notice"><p>
-		   Sign up for UP and every time users share content from your site they will get points they can redeem for cool stuff.<br/>
-		 <a href="'.get_site_url().'/wp-admin/admin.php?page=upshare-settings-page">Enter Partner Id </a>  | <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank"> Sign Up </a>  |  <a href="" id="closeNotice" onclick="return removeNotice();">Ignore this notice</a>
+		   Note - Users will only get rewarded for sharing your content if you sign up as a UP Partner.<br/>
+		 <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank"> Sign up here </a>  |  <a href="" id="closeNotice" onclick="return removeNotice();">Ignore this notice</a>
 		   </p></div>';
 		}
 	}
