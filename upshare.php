@@ -68,8 +68,7 @@ function upshare_settings() {
 		  
 		  ?>
    
-    
-    
+       
     
     <!-- HTML GOES HERE -->
     
