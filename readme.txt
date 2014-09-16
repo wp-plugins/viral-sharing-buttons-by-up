@@ -12,17 +12,29 @@ The Viral Sharing Buttons from UP change the way sites go viral. Users share con
 == Description ==
 [vimeo http://vimeo.com/105724953]
 
-Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons. With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. 
+Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
 
-Our points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient.
+With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social networks.
 
-What’s more by signing up as an [UP Partner](https://www.upshare.co/partners/sign_up?origin=wp) for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
+Our points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient. UP’s customizable platform and social share icons help you optimize your content, blog posts and pages for more social sharing engagement, and a wider viral reach.
 
-= Plugin Features =
+What’s more - by signing up as an [UP Partner](https://www.upshare.co/partners/sign_up?origin=wp) for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
 
-*   Incentivized social sharing widget
-*   You get more shares, your users get cool stuff
+You don’t just want people to share your content – you want them to start conversations around your content that their networks engage in. You also want your site to be PROMOTED to other users who are sharing similar sites on their social networks and social media accounts. 
+
+Stop begging users to share your content and giving them nothing in return. Use UP – and give them a reason to share!
+
+100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized social media sharing!
+
+= Custom Sharing Buttons Placement =
+
+*   Responsive and customizable
+*   Vertical and horizontal social media icons
 *   Mobile and tablet friendly
+*   Easily controlled from your UP dashboard
+*   One-click install, or easy-to-implement shortcode
+*   Never impedes your content
+*   [Click here for a live demo](http://blog.upshare.co/sharing-buttons-demo/)
 
 == Installation ==
 <p>For an automatic installation through WordPress:</p>
