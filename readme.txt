@@ -36,6 +36,35 @@ Stop begging users to share your content and giving them nothing in return. Use 
 *   Never impedes your content
 *   [Click here for a live demo](http://blog.upshare.co/sharing-buttons-demo/)
 
+= Lightening Fast =
+
+*   < 190 ms load time
+*   < 200 kb in size
+*   Perfect Google Pagespeed score
+*   Value-add for both site owners AND users (no other sharing widget provides this)
+
+= Automatically Optimized = 
+
+*   Clean, flat, modern design
+*   The UP team optimizes widget features based on in-house testing
+*   We work behind the scenes to make your site more viral 
+*   We give you the data on most viral sharing widget states
+*   Install social sharing buttons on any CMS or shopping cart
+*   Compatible with all browsers and devices
+*   Safe and secure using industry best practices
+
+= Unique Viral Features = 
+
+*   Market-leading social sharing widget performance
+*   Points-based incentives to give users a reason to share on social networks
+*   The more interactions a user’s share gets, the more points they’re awarded
+*   This ensures they share what their network responds to – so you aren’t seen as spam
+*   No other social sharing widget gives users a reason to voluntarily link their networks
+*   You get never-before-seen cross-network viral sharing data to see how, why and when users are sharing your pages and posts
+*   WE PROMOTE YOUR SITE – we show your site to other users who share similar content with their networks.
+*   You get data and insights even if users just copy/paste links or re-share on their networks (they link their sharing history to UP)
+
+
 == Installation ==
 <p>For an automatic installation through WordPress:</p>
 <ol>
