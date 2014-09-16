@@ -64,6 +64,13 @@ Stop begging users to share your content and giving them nothing in return. Use 
 *   WE PROMOTE YOUR SITE – we show your site to other users who share similar content with their networks.
 *   You get data and insights even if users just copy/paste links or re-share on their networks (they link their sharing history to UP)
 
+= 100% Free and Always Will Be =
+
+*   Just install the UP widget and [sign up as a partner](https://www.upshare.co/partners/sign_up?origin=wp) for free in 30 seconds or less
+*   Users see the UP icon and automatically know they get points for sharing
+*   Industry-leading partner support (we actually listen to your feedback)
+*   Incredibly-detailed documentation and tutorials
+
 
 == Installation ==
 <p>For an automatic installation through WordPress:</p>
