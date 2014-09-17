@@ -81,9 +81,9 @@ function upshare_settings() {
     
     <div class="wrap">
     
-<section id="header">
+<section id="upheader">
 
-	<div class="wrapper">
+	<div class="upwrapper">
             	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right" style="display:none;">
                     	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank"><b> Sign Up</b></a>
@@ -93,7 +93,7 @@ function upshare_settings() {
 </section>
 
 <section id="got-widget">
-	<div class="wrapper">
+	<div class="upwrapper">
             	<div class="widget-main-contant">
                		<h1>You've got the widget - now go viral with<span> UP </span></h1>
 <p style="padding-left:40px;padding-right:40px;">Every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.</p>
@@ -103,7 +103,7 @@ function upshare_settings() {
 </section>
 
 <section id="partner-id">
-	<div class="wrapper">
+	<div class="upwrapper">
             	<div class="partner-id-main-contant1">
                		<h1>UP is currently configured on your site</h1>
                      <div align="center" style="padding-top: 10px;"><a class="partner-botton" href="http://www.upshare.co/partners/sign_in?" target="_blank">My Dashboard</a></div>
@@ -112,13 +112,13 @@ function upshare_settings() {
 </section>
 
 <!--<section id="partner-id">
-	<div class="wrapper">
+	<div class="upwrapper">
              <div class="partner-bottom"><p>Where can I get my Partner ID?</p></div>
         </div> 
 </section>-->
 
 <section id="main-widgets">
-	<div class="wrapper">
+	<div class="upwrapper">
     
     <div class="main-widgets-box">
              <div class="widget-first">
@@ -159,7 +159,7 @@ function upshare_settings() {
 </section>
 
 <section id="footer" class="upshare_footer">
-	<div class="wrapper">
+	<div class="upwrapper">
         <div class="row">
         <div class="footer-text">
             <p><a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank">Learn More About <b>UP</b></a></p>
@@ -175,8 +175,8 @@ function upshare_settings() {
    
     <div class="wrap">
 
-<section id="header">
-	<div class="wrapper">
+<section id="upheader">
+	<div class="upwrapper">
             	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right">
                     	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank"><b> Sign Up</b></a>
@@ -185,7 +185,7 @@ function upshare_settings() {
         		</div> 
 </section>
 <section id="got-widget">
-	<div class="wrapper">
+	<div class="upwrapper">
         <div class="row">
         	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             	<div class="widget-main-contant">
@@ -205,7 +205,7 @@ function upshare_settings() {
 </section>
 
 <section id="partner-id">
-	<div class="wrapper">
+	<div class="upwrapper">
             	<div class="partner-id-main-contant">
                		<h1>Paste your partner id here:</h1>
                     <form method="POST" action="">
@@ -219,13 +219,13 @@ function upshare_settings() {
 </section>
 
 <section id="partner-id">
-	<!--<div class="wrapper">
+	<!--<div class="upwrapper">
              <div class="partner-bottom"><p>Where can I get my Partner ID?</p></div>
      </div> -->
 </section>
 
 <section id="main-widgets">
-	<div class="wrapper">
+	<div class="upwrapper">
     
     <div class="main-widgets-box">
              <div class="widget-first">
@@ -253,7 +253,7 @@ function upshare_settings() {
 
 
 <section id="footer" class="upshare_footer">
-	<div class="wrapper">
+	<div class="upwrapper">
         <div class="row">
         <div class="footer-text">
             <p><a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank">Learn More About <b>UP</b></a></p>

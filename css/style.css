@@ -4,22 +4,13 @@
 		src:url('fonts/Arial.ttf')
        
     }
-body{ 
-    font-family:Arial, Helvetica, sans-serif;
-	padding:0;
-	margin:0;
-	color:#f6f6f6;
-	}
-h1,h2,h3,h4,h5,h6,ul,li{
-	padding:0;
-	margin:0;
-}
-#header{
+
+#upheader{
 	padding-top:55px;
 	padding-bottom:20px;
 	background:#fff;
 }
-.wrapper{
+.upwrapper{
 	width:898px;
 	/*margin:0 auto;*/
 	padding-let:20px;
@@ -317,7 +308,7 @@ div.update-nag , div#message , div.updated
     margin-top: 5px;
 }
 
-.wrap section#header ,
+.wrap section#upheader ,
 .wrap section#got-widget ,
 .wrap section#partner-id ,
 .wrap section#main-widgets ,
