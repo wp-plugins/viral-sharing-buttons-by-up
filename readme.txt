@@ -83,7 +83,7 @@ Stop begging users to share your content and giving them nothing in return. Use 
 <li>Click Install Now</li>
 <li>Activate the plugin/li>
 <li>Open the Plugin Settings page</li>
-<li>Enter your Partner ID (get it for free in 30 seconds by [clicking here](https://www.upshare.co/partners/sign_up?origin=wp))</li>
+<li>Enter your Partner ID (get it for free in 30 seconds by <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">clicking here</a>).</li>
 <li>Tweak your settings to your liking – and enjoy!</li>
 </ol>
 
@@ -105,7 +105,7 @@ Stop begging users to share your content and giving them nothing in return. Use 
 <h4>Skip the plugin and install the JavaScript snippet directly into your HTML:</h4>
 
 <ol>
-<li>Navigate to www.upshare.co/partners.</li>
+<li>Navigate to <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">www.upshare.co/partners</a>.</li>
 <li>Fill out the short form to create your free partner account</li>
 <li>Grab your JavaScript snippet from the following page</li>
 <li>Navigate to the Editor screen in your WordPress admin panel/li>
@@ -122,7 +122,7 @@ Stop begging users to share your content and giving them nothing in return. Use 
  
 1. Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
 2. With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social networks.
-3. What’s more - by signing up as an <a href="https://www.upshare.co/partners/sign_up?origin=wp">UP Partner</a> for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
+3. What’s more - by signing up as an <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">UP Partner</a> for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
 4. You don’t just want people to share your content – you want them to start conversations around your content that their networks engage in.  Stop begging users to share your content and giving them nothing in return. Use UP – and give them a reason to share!
 
 == Changelog ==
