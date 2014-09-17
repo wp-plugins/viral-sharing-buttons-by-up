@@ -73,7 +73,7 @@ Stop begging users to share your content and giving them nothing in return. Use 
 
 
 == Installation ==
-<p>Got installation questions? If the steps below don’t help – [let us know](https://wordpress.org/support/plugin/viral-sharing-buttons-by-up).</p>
+<p>Got installation questions? If the steps below don’t help – <a href="https://wordpress.org/support/plugin/viral-sharing-buttons-by-up">let us know</a>.</p>
 
 <p>Automatic installation through WordPress:</p>
 
