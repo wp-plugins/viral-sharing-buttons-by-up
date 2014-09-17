@@ -120,7 +120,10 @@ Stop begging users to share your content and giving them nothing in return. Use 
 
 == Screenshots ==
  
-1. UP Sharing Widget
+1. Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
+2. With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social networks.
+3. What’s more - by signing up as an UP Partner for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
+4. You don’t just want people to share your content – you want them to start conversations around your content that their networks engage in.  Stop begging users to share your content and giving them nothing in return. Use UP – and give them a reason to share!
 
 == Changelog ==
 = 1.0.1 = 
