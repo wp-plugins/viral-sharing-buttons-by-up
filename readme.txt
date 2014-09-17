@@ -75,7 +75,7 @@ Stop begging users to share your content and giving them nothing in return. Use 
 == Installation ==
 <p>Got installation questions? If the steps below don’t help – <a href="https://wordpress.org/support/plugin/viral-sharing-buttons-by-up">let us know</a>.</p>
 
-<p>Automatic installation through WordPress:</p>
+<h4>Automatic installation through WordPress:</h4>
 
 <ol>
 <li>Go to the “Add New Plugins” screen in your WordPress admin area</li>
@@ -88,21 +88,21 @@ Stop begging users to share your content and giving them nothing in return. Use 
 </ol>
 
 
-<p>Manual installation via FTP:</p>
+<h4>Manual installation via FTP:</h4>
 
 <ol>
 <li>Upload the upshare folder to the `/wp-content/plugins/` directory</li>
 <li>Follow steps 4-7 above.</li>
 </ol>
 
-<p>To upload the plugin through WordPress, instead of FTP:</p>
+<h4>To upload the plugin through WordPress, instead of FTP:</h4>
 
 <ol>
 <li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area.</li>
 <li>Follow steps 4-7 above.</li>
 </ol>
 
-<p>Skip the plugin and install the JavaScript snippet directly into your HTML:</p>
+<h4>Skip the plugin and install the JavaScript snippet directly into your HTML:</h4>
 
 <ol>
 <li>Navigate to www.upshare.co/partners.</li>
