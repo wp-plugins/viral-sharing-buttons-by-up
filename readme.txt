@@ -102,6 +102,19 @@ Stop begging users to share your content and giving them nothing in return. Use 
 <li>Follow steps 4-7 above.</li>
 </ol>
 
+<p>Skip the plugin and install the JavaScript snippet directly into your HTML:</p>
+
+<ol>
+<li>Navigate to www.upshare.co/partners.</li>
+<li>Fill out the short form to create your free partner account</li>
+<li>Grab your JavaScript snippet from the following page</li>
+<li>Navigate to the Editor screen in your WordPress admin panel/li>
+<li>Pull up the Header file from the list on the right</li>
+<li>Paste your JavaScript snippet right before the closing </head> tag in your Header file</li>
+<li>Save the file</li>
+<li>Tweak your settings from your UP Partner Dashboard</li>
+<li>Enjoy!</li>
+</ol>
 
 
 
