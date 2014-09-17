@@ -73,21 +73,37 @@ Stop begging users to share your content and giving them nothing in return. Use 
 
 
 == Installation ==
-<p>For an automatic installation through WordPress:</p>
+<p>Got installation questions? If the steps below don’t help – let us know.</p>
+
+<p>Automatic installation through WordPress:</p>
+
 <ol>
-<li>Go to the Add New plugins screen in your WordPress admin area</li>
-<li>Search for UP Sharing Buttons</li>
-<li>Click Install Now and activate the plugin</li>
+<li>Go to the “Add New Plugins” screen in your WordPress admin area</li>
+<li>Search for “UP Sharing Buttons”</li>
+<li>Click Install Now</li>
+<li>Activate the plugin/li>
+<li>Open the Plugin Settings page</li>
+<li>Enter your Partner ID (get it for free in 30 seconds by [clicking here](https://www.upshare.co/partners/sign_up?origin=wp))</li>
+<li>Tweak your settings to your liking – and enjoy!</li>
 </ol>
-<p>For a manual installation via FTP:</p>
+
+
+<p>Manual installation via FTP:</p>
+
 <ol>
-<li>Upload the upshare folder to the <code>/wp-content/plugins/</code> directory</li>
-<li>Activate the plugin through the Plugins screen in your WordPress admin area</li>
+<li>Upload the upshare folder to the `/wp-content/plugins/` directory</li>
+<li>Follow steps 4-7 above.</li>
 </ol>
+
 <p>To upload the plugin through WordPress, instead of FTP:</p>
+
 <ol>
-<li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area and activate.</li>
+<li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area.</li>
+<li>Follow steps 4-7 above.</li>
 </ol>
+
+
+
 
 == Screenshots ==
  
