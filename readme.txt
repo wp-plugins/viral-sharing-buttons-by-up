@@ -105,7 +105,7 @@ Stop begging users to share your content and giving them nothing in return. Use 
 <h4>Skip the plugin and install the JavaScript snippet directly into your HTML:</h4>
 
 <ol>
-<li>Navigate to <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">www.upshare.co/partners</a>.</li>
+<li>Navigate to <a href="https://www.upshare.co/partners" target="_Blank">www.upshare.co/partners</a>.</li>
 <li>Fill out the short form to create your free partner account</li>
 <li>Grab your JavaScript snippet from the following page</li>
 <li>Navigate to the Editor screen in your WordPress admin panel/li>
