@@ -71,7 +71,6 @@ Stop begging users to share your content and giving them nothing in return. Use 
 *   Industry-leading partner support (we actually listen to your feedback)
 *   Incredibly-detailed documentation and tutorials
 
-
 == Installation ==
 <p>Got installation questions? If the steps below don’t help – <a href="https://wordpress.org/support/plugin/viral-sharing-buttons-by-up">let us know</a>.</p>
 
