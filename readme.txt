@@ -116,7 +116,6 @@ Stop begging users to share your content and giving them nothing in return. Use 
 </ol>
 
 
-
 == Screenshots ==
  
 1. Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
