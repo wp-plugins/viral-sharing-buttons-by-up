@@ -86,7 +86,6 @@ Stop begging users to share your content and giving them nothing in return. Use 
 <li>Tweak your settings to your liking – and enjoy!</li>
 </ol>
 
-
 <h4>Manual installation via FTP:</h4>
 
 <ol>
