@@ -3,7 +3,7 @@ Contributors: upshare
 Tags: add to any, AddThis, addtoany, admin, bitly, bookmark, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, e-mail, email, Facebook, facebook like, facebook share, floating, floating buttons, google, google +1, google plus, google plus one, icon, icons, image, images, Like, linkedin, links, lockerz, page, pages, plugin, plus 1, plus one, Post, posts, print, Reddit, responsive, save, seo, Share, sharebar, sharing buttons, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social share, social sharing, socialize, statistics, stats, stumbleupon, svg, tumblr, tweet, tweet button, twitter, twitter button, twitter share, vector, wanelo, whatsapp, widget, widgets, wpmu
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -127,6 +127,8 @@ Stop begging users to share your content and giving them nothing in return. Use 
 * First release
 = 1.0.2 = 
 * Minor bug fixed in plugin css
+= 1.0.3 = 
+* Added new placement options for sharing buttons.  Can now be pinned to left, right and bottom left of screen.  Options can be controlled from within Dashboard area on www.upshare.co/partners/
 
 == Upgrade Notice ==
 There is no need to upgrade just yet.
