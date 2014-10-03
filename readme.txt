@@ -114,7 +114,6 @@ Stop begging users to share your content and giving them nothing in return. Use 
 <li>Enjoy!</li>
 </ol>
 
-
 == Screenshots ==
  
 1. Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
@@ -128,7 +127,7 @@ Stop begging users to share your content and giving them nothing in return. Use 
 = 1.0.2 = 
 * Minor bug fixed in plugin css
 = 1.0.3 = 
-* Added new placement options for sharing buttons.  Can now be pinned to left, right and bottom left of screen.  Options can be controlled from within Dashboard area on www.upshare.co/partners/
+* Added new placement options for sharing buttons.  Can now be pinned to left, right and bottom left of screen.  These options can be controlled from within Dashboard area on www.upshare.co/partners/
 
 == Upgrade Notice ==
 There is no need to upgrade just yet.
