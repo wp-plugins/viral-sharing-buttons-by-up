@@ -12,8 +12,7 @@ The Viral Sharing Buttons from UP change the way sites go viral. Users share con
 == Description ==
 [vimeo http://vimeo.com/105724953]
 
-= Get more traffic on your site and increase viral interaction by installing the UP Viral Sharing Buttons widget! Unlike your normal, everyday Sharing Buttons, UP’s proprietary technology has been designed to help make your site more Viral. =
-
+Get more traffic on your site and increase viral interaction by installing the UP Viral Sharing Buttons widget! Unlike your normal, everyday Sharing Buttons, UP’s proprietary technology has been designed to help make your site more Viral.
 
 With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social networks. 
 
