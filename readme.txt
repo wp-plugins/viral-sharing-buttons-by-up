@@ -28,6 +28,7 @@ Stop begging users to share your content on social media and giving them nothing
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized social media sharing!
 
+
 = Custom Sharing Buttons Placement =
 
 *   Responsive and customizable
