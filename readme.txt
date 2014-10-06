@@ -12,11 +12,12 @@ The Viral Sharing Buttons from UP change the way sites go viral. Users share con
 == Description ==
 [vimeo http://vimeo.com/105724953]
 
-Get more traffic on your site and increase viral interaction by installing the UP Viral Sharing Buttons widget! Unlike your normal, everyday Sharing Buttons, UP’s proprietary technology has been designed to help make your site more Viral.
+= Viral Share Buttons = 
+Get more traffic on your site and increase viral interaction by installing the UP Viral Share Buttons! Unlike your normal, everyday Sharing Buttons, UP’s proprietary technology has been designed to help make your site more Viral.
 
 With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social networks. 
 
-Users don’t even need to share using your Social Sharing Buttons for you to get incredibly detailed viral data – they can just copy and paste the link or share in any other way.
+Users don’t even need to share using the share buttons for you to get incredibly detailed viral data – they can just copy and paste the link or share in any other way.
 
 UP’s points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient. UP’s customizable platform and Viral Sharing Buttons help you optimize your content, blog posts and pages for more social sharing engagement, and a wider viral reach.
 
@@ -27,7 +28,6 @@ You don’t just want people sharing your content – you want them to start CON
 Stop begging users to share your content on social media and giving them nothing in return. Use UP – and give them a reason for sharing!
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized social media sharing!
-
 
 = Custom Sharing Buttons Placement =
 
