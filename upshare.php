@@ -86,7 +86,7 @@ function upshare_settings() {
 	<div class="upwrapper">
             	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right" style="display:none;">
-                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank"><b> Sign Up</b></a>
+                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="javascript: ga(\'send\', \'event\', \'Widget Settings Signup Link\', \'Click\', \'WP Sharing Button Widget\') "><b> Sign Up</b></a>
 			       </div>
                    <div class="border-image"><img src="<?php echo plugins_url( 'images/border-img.png' , __FILE__ ); ?>"></div>
         		</div> 
@@ -179,7 +179,7 @@ function upshare_settings() {
 	<div class="upwrapper">
             	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right">
-                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank"><b> Sign Up</b></a>
+                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click', 'WP Sharing Button Widget') "><b> Sign Up</b></a>
 			       </div>
                    <div class="border-image"><img src="<?php echo plugins_url( 'images/border-img.png' , __FILE__ ); ?>"></div>
         		</div> 
@@ -190,7 +190,7 @@ function upshare_settings() {
         	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             	<div class="widget-main-contant">
                		<h1>You've got the widget - now go viral with<span> UP </span></h1>
-<p><a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank">Create a free account</a> and then enter your partner ID below.  Now every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.</p>
+<p><a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click', 'WP Sharing Button Widget') ">Create a free account</a> and then enter your partner ID below.  Now every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.</p>
                 </div>
                 
                 <div align="center">
@@ -256,7 +256,7 @@ function upshare_settings() {
 	<div class="upwrapper">
         <div class="row">
         <div class="footer-text">
-            <p><a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank">Learn More About <b>UP</b></a></p>
+            <p><a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Learn More Click', 'WP Sharing Button Widget') ">Learn More About <b>UP</b></a></p>
          </div>
          </div>
      </div> 
@@ -264,6 +264,16 @@ function upshare_settings() {
 
 
 </div>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47573483-1', 'auto');
+  ga('send', 'event', 'Widget Settings', 'Page View', 'WP Sharing Button Widget')
+
+</script>
       
    <?php
    
