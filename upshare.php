@@ -86,7 +86,7 @@ function upshare_settings() {
 	<div class="upwrapper">
             	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right" style="display:none;">
-                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="javascript: ga(\'send\', \'event\', \'Widget Settings Signup Link\', \'Click\', \'WP Sharing Button Widget\') "><b> Sign Up</b></a>
+                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank"><b> Sign Up</b></a>
 			       </div>
                    <div class="border-image"><img src="<?php echo plugins_url( 'images/border-img.png' , __FILE__ ); ?>"></div>
         		</div> 
@@ -179,7 +179,7 @@ function upshare_settings() {
 	<div class="upwrapper">
             	<div class="logo"><img src="<?php echo plugins_url( 'images/logo.png' , __FILE__ ); ?>">for Wordpress</div>
                     <div class="text-right pull-right">
-                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click', 'WP Sharing Button Widget') "><b> Sign Up</b></a>
+                    	Need an account?<a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Sharing Button Widget') "><b> Sign Up</b></a>
 			       </div>
                    <div class="border-image"><img src="<?php echo plugins_url( 'images/border-img.png' , __FILE__ ); ?>"></div>
         		</div> 
@@ -190,7 +190,7 @@ function upshare_settings() {
         	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             	<div class="widget-main-contant">
                		<h1>You've got the widget - now go viral with<span> UP </span></h1>
-<p><a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click', 'WP Sharing Button Widget') ">Create a free account</a> and then enter your partner ID below.  Now every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.</p>
+<p><a href="http://www.upshare.co/partners/wp/sign_up/" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 2', 'WP Sharing Button Widget') ">Create a free account</a> and then enter your partner ID below.  Now every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.</p>
                 </div>
                 
                 <div align="center">
