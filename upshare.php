@@ -3,7 +3,7 @@
  * @package UP Share
  */
 /*
-Plugin Name: UP Viral Sharing Buttons
+Plugin Name: Viral Sharing Buttons by UP
 Version: 1.0.3
 Author: UP
 Author URI: http://www.upshare.co
