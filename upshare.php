@@ -292,14 +292,14 @@ function upshare_settings() {
 function addScriptCodeToHead()
 {
 		  
-		  $partner_id = get_option("partner_id");   
+	$partner_id = get_option("partner_id");   
 
   if($partner_id)
   {
-	 echo '<script src="https://widget.upshare.co/v1/app/public/js/up-load.js?partnerid='.$partner_id.'" id="UPWidget"></script>';
+	 echo '<script src="//widget.upshare.co/up-load.js?partnerid='.$partner_id.'" id="UPWidget"></script>';
   }
   else{
-	 echo '<script src="https://widget.upshare.co/v1/app/public/js/up-load.js?" id="UPWidget"></script>'; 
+	 echo '<script src="//widget.upshare.co/up-load.js?" id="UPWidget"></script>'; 
   }
 	
 }
