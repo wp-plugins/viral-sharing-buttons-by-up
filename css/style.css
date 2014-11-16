@@ -119,6 +119,8 @@
 	text-transform:uppercase;
 	margin-bottom:20px;
 	font-weight:normal;
+		line-height:45px;
+	margin-top:0px;
 	
 	}	
 .partner-input{padding:10px; width:70%; font-size:24px;  color:#959595;font-family:Arial, arial,reguler;}	
