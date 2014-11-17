@@ -233,10 +233,10 @@
 	
 					</div>
 					<div class="widget-third">
-						<h1>Go Viral</h1>
-						<p>
-							The formula for going viral is simple: produce good content, and give users a good reason to share it. You take care of the content. UP takes care of the rest.
-						</p>
+						<h1>Select Your Placement</h1>
+					<p>
+						Your UP Partner Dashboard gives you quick and easy control over the placement of your sharing buttons, as well as tons of other powerful features that can help you go viral.
+					</p>
 					</div>
 				</div>
 				
