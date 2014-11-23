@@ -136,8 +136,8 @@
 	            <div style="padding-top:20px;"><a class="small-button"  href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Sharing Button Widget V3')">Create Your Free Account</a></div>
 	        </div>
 	        <div class="col-md-7 video">
-	          <iframe src="//player.vimeo.com/video/105724953?title=0&amp;byline=0&amp;portrait=0" width="565" height="318" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>	
-	        </div>
+	          <iframe src="//player.vimeo.com/video/105724953" width="565" height="318" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	          </div>
 	      </div>
 	  
 			</div>
