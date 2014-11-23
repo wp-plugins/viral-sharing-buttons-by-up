@@ -1,88 +1,73 @@
 <!-- HTML GOES HERE -->
 <?php if( $partner_id != "") { ?>
-	<style>
-		#upshare_notice {
-			display: none;
-		}
-	</style>
-	<div class="wrap">
-		<section id="upheader">
-			<div id="upwrapper">
-				<div class="logo"><img src="<?php echo $this->_plugin_url . '/images/logo.png'; ?>">for Wordpress
-				</div>
-				<div class="text-right pull-right" style="display:none;">
-					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank"><b> Sign Up</b></a>
-				</div>
-				<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>">
-				</div>
+<style>#upshare_notice {display: none;}</style>
+<div class="wrap">
+	<section id="upheader">
+		<div id="upwrapper">
+			<div class="logo"><img src="<?php echo $this->_plugin_url . '/images/logo.png'; ?>">for Wordpress</div>
+			<div class="text-right pull-right" style="display:none;">
+				Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"><b> Sign Up</b></a>
 			</div>
-		</section>
-		<section id="got-widget">
-			<div id="upwrapper">
-				<div class="widget-main-content">
-					<h1>You've got the widget - now go viral with<span> UP </span></h1>
-					<p style="padding-left:40px;padding-right:40px;">
+			<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>"></div>
+		</div>
+	</section>
+	<section id="got-widget">
+		<div id="upwrapper">
+			<div class="widget-main-content">
+				<h1>You've got the widget - now go viral with<span> UP </span></h1>
+				<p style="padding-left:40px;padding-right:40px;">
 						Every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.
-					</p>
+				</p>
+			</div>
+		</div>
+	</section>
+	<section id="partner-id">
+		<div id="upwrapper">
+			<div class="partner-id-main-contant1">
+				<h1>VISIT YOUR DASHBOARD TO CHOOSE THE PLACEMENT OF YOUR SHARING BUTTONS</h1>
+				<div align="center" style="padding-top: 10px;">
+					<a class="partner-botton" href="http://www.upshare.co/partners/home" target="_blank">My Dashboard</a>
 				</div>
 			</div>
-		</section>
-		<section id="partner-id">
-			<div id="upwrapper">
-				<div class="partner-id-main-contant1">
-					<h1>VISIT YOUR DASHBOARD TO CHOOSE THE PLACEMENT OF YOUR SHARING BUTTONS</h1>
-					<div align="center" style="padding-top: 10px;">
-						<a class="partner-botton" href="http://www.upshare.co/partners/home" target="_blank">My Dashboard</a>
-					</div>
-				</div>
-				
-			</div>
-		</section>
-		<!--<section id="partner-id">
+		</div>
+	</section>
+	<!--<section id="partner-id">
 		<div class="upwrapper">
 		<div class="partner-bottom"><p>Where can I get my Partner ID?</p></div>
 		</div>
-		</section>-->
-		<section id="main-widgets">
-			<div id="upwrapper">
-	
-				<div class="main-widgets-box">
-					<div class="widget-first">
-						<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
-						<h1>Install the Widget</h1>
-						<p>
-							UP;s cloud-based responsive sharing widget combines lightening-fast load time with one-of-a-kind value for your users
-						</p>
-	
-					</div>
-	
-					<div class="widget-first">
-						<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
-						<h1>Sync your Free Account</h1>
-						<p>
-							Sign up as an UP partner for free, then enter your partner ID above to give your users points for sharing your content, and get access to the UP Partner Dashboard
-						</p>
-	
-					</div>
-	
-					<div class="widget-second1">
-						<h1>Select Your Placement</h1>
+	</section>-->
+	<section id="main-widgets">
+		<div id="upwrapper">
+			<div class="main-widgets-box">
+				<div class="widget-first">
+					<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
+					<h1>Install the Widget</h1>
 					<p>
-						Your UP Partner Dashboard gives you quick and easy control over the placement of your sharing buttons, as well as tons of other powerful features that can help you go viral.
+						UP;s cloud-based responsive sharing widget combines lightening-fast load time with one-of-a-kind value for your users
 					</p>
-	
-					</div>
 				</div>
-	
-				<div align="center">
-	
-					<iframe src="//player.vimeo.com/video/105724953?byline=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<div class="widget-first">
+					<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
+					<h1>Sync your Free Account</h1>
+					<p>
+						Sign up as an UP partner for free, then enter your partner ID above to give your users points for sharing your content, 
+						and get access to the UP Partner Dashboard
+					</p>
 				</div>
-	
+				<div class="widget-second1">
+					<h1>Select Your Placement</h1>
+					<p>
+						Your UP Partner Dashboard gives you quick and easy control over the placement of your sharing buttons, as well as tons 
+						of other powerful features that can help you go viral.
+					</p>
+				</div>
 			</div>
-		</section>
-	
-		<section id="footer" class="upshare_footer">
+			<div align="center">
+				<iframe src="//player.vimeo.com/video/105724953?byline=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		</div>
+	</section>
+	<section id="footer" class="upshare_footer">
 			<div id="upwrapper">
 				<div class="row">
 					<div class="footer-text">
@@ -92,12 +77,9 @@
 					</div>
 				</div>
 			</div>
-		</section>
-	
-	</div>
-	
-	<?php } else { ?>
-	
+	</section>
+</div><!-- end class="wrap" -->
+<?php } else { ?>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css">
 	
@@ -111,7 +93,7 @@
 				<div class="logo"><img src="<?php echo $this->_plugin_url . '/images/logo.png'; ?>">for Wordpress
 				</div>
 				<div class="text-right pull-right">
-					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Sharing Button Widget V2')"><b> Sign Up</b></a>
+					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Sharing Button Widget V3')"><b> Sign Up</b></a>
 				</div>
 				<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>">
 				</div>
@@ -121,29 +103,14 @@
 		<section id="syncfree">
 			<div id="upwrapper">
 				<div class="widget-main-content">
-					<h1>Sync Your Free UP Partner Account</h1>
+					<h1>Get Your Free UP Partner Account</h1>
 					<p>
-						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 2', 'WP Sharing Button Widget V2') ">Create a free account</a> and then enter your partner ID below.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
+						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 2', 'WP Sharing Button Widget V3') ">Create a free account</a> in less than 30 seconds.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
 					</p>
 				</div>
 			</div>
 		</section>
-	
-		<section id="partner-id">
-			<div id="upwrapper">
-				<div class="partner-id-main-contant">
-					<h1>SYNC YOUR ACCOUNT BY PastING your FREE partner id:</h1>
-					<form method="POST" action="">
-						<input type="text" class="partner-input numbersOnly" name="partner_id" placeholder="ex. 12345" value="<?php echo $partner_id; ?>">
-						<input type="hidden" name="update_settings" value="Y" />
-						<input  class="partner-botton"  type="submit" value="Sync UP Account">
-					</form>
-				</div>
-				<div class="widget-main-content pull-right" style="margin-top:20px;margin-bottom:0px;"><p>Need a partner ID? <a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 3', 'WP Sharing Button Widget V2')">Create a free account.</a></p></div>
-				
-			</div>
-	
-		</section>
+
 	
 	<section id="content">
 			<div id="upwrapper">
@@ -161,10 +128,10 @@
 	            <p>Every user who sees your content needs to recruit one or more users for you.</p>
 	            <p>To make this happen, users need a reason to share. <strong>That’s where we come in.</strong></p>
 	          </div>
-	            <div style="padding-top:20px;"><a class="small-button"  href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Sharing Button Widget V2')">Get Your Free Partner ID</a></div>
+	            <div style="padding-top:20px;"><a class="small-button"  href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 3', 'WP Sharing Button Widget V3')">Create Your Free Account</a></div>
 	        </div>
 	        <div class="col-md-7 video">
-	          <iframe style="width: 565px; height: 346px;" src="//fast.wistia.net/embed/iframe/5xojp2qqt1?videoFoam=true" allowtransparency="true" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" frameborder="0" height="346" width="565"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
+	          <iframe src="//player.vimeo.com/video/105724953?title=0&amp;byline=0&amp;portrait=0" width="565" height="318" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>	
 	        </div>
 	      </div>
 	  
@@ -226,9 +193,9 @@
 	
 					</div>
 					<div class="widget-second">
-						<h1>Sync your Free Account</h1>
+						<h1>Create Your Free Account</h1>
 						<p>
-							Sign up as an UP partner for free, then enter your partner ID above to give your users points for sharing your content, and get access to the UP Partner Dashboard
+							Sign up as an UP partner for free so that your users get points for sharing your content, and get access to the UP Partner Dashboard
 						</p>
 	
 					</div>
@@ -241,7 +208,7 @@
 				</div>
 				
 				<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 5', 'WP Sharing Button Widget V2')">Get Your Free Partner ID</a>
+				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
 				</div>
 			</div>
 		</section>
@@ -356,7 +323,7 @@
 				</div>
 				
 				<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 6', 'WP Sharing Button Widget V2')">Get Your Free Partner ID</a>
+				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 5', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
 				</div>
 				
 			</div>
@@ -369,27 +336,14 @@
 	<section id="syncfree" style="margin-top:0px;">
 			<div id="upwrapper">
 				<div class="widget-main-content">
-					<h1>Got Your Partner ID? Sync Your Account.</h1>
+					<h1>Get Your Free UP Partner Account</h1>
 					<p>
-						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 7', 'WP Sharing Button Widget V2') ">Create a free account</a> and then enter your partner ID below.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
+						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 6', 'WP Sharing Button Widget V3') ">Create a free account</a> in less than 30 seconds.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
 					</p>
 				</div>
 			</div>
 		</section>
 	
-		<section id="partner-id">
-			<div id="upwrapper">
-				<div class="partner-id-main-contant">
-					<h1>SYNC YOUR ACCOUNT BY PastING your FREE partner id:</h1>
-					<form method="POST" action="">
-						<input type="text" class="partner-input numbersOnly" name="partner_id" placeholder="ex. 12345" value="<?php echo $partner_id; ?>">
-						<input type="hidden" name="update_settings" value="Y" />
-						<input  class="partner-botton"  type="submit" value="Sync UP Account">
-					</form>
-				</div>
-				<div class="widget-main-content pull-right" style="margin-top:20px;margin-bottom:0px;"><p>Need a partner ID? <a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v2#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 8', 'WP Sharing Button Widget V2')">Create a free account.</a></p></div>
-			</div>
-		</section>
 	</div>
 	<script>
 		(function(i, s, o, g, r, a, m) {
@@ -405,7 +359,7 @@
 		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 	
 		ga('create', 'UA-47573483-1', 'auto');
-		ga('send', 'event', 'Widget Settings', 'Page View', 'WP Sharing Button Widget V2')
+		ga('send', 'event', 'Widget Settings', 'Page View', 'WP Sharing Button Widget V3')
 	</script>
 	<?php
 	}

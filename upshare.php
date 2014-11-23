@@ -66,7 +66,9 @@ class UP_ViralSharingSocial
 	}
 	public function admin_notice_message()
 	{
-		$partner_id 	= get_option("partner_id");
+		$json = $this->queryApi();
+		//$partner_id 	= get_option("partner_id");
+		$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : '';
 		$upshare_notice =  get_option("upshare_notice");
 	
 		if($partner_id == "")
@@ -153,12 +155,14 @@ class UP_ViralSharingSocial
 	{
 		add_menu_page(__('UP','menu-test'), __('UP','menu-test'), 'manage_options', 'upshare-settings-page', array($this, 'upshare_settings') , 
 						plugins_url( 'viral-sharing-buttons-by-up/images/menu-icon2.png' ) );
-		 
-		$partner_id = get_option("partner_id");
+		$json = $this->queryApi();
+		//$partner_id = get_option("partner_id");
+		$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : '';
 	
 		if( $partner_id == "" ) 
 		{
-			add_submenu_page('upshare-settings-page', 'UPshare', 'Signup for UP', 'manage_options', 'signup_upshare_page', 'upshare_sub_settings');
+			add_submenu_page('upshare-settings-page', 'UPshare', 'Signup for UP', 'manage_options', 'signup_upshare_page', 
+								array($this, 'upshare_sub_settings'));
 		}
 	}
 	public function upshare_sub_settings()
@@ -176,43 +180,61 @@ class UP_ViralSharingSocial
 		}
 		$partner_id = '';
 		
-		if (isset($_POST["update_settings"]))
+		if ( isset($_POST["update_settings"]) )
 		{
 			// Do the saving
-	
 			$partner_id = esc_attr($_POST["partner_id"]);
 			update_option("partner_id", $partner_id);
 			update_option('upshare_notice',1);
 			?>
-			<div id="message" class="updated">
-				Settings saved
-			</div>
+			<div id="message" class="updated"><?php _e('Settings saved'); ?></div>
 			<?php
 			$partnerValue = true;
 		}
+		//in case form not submitted
+		//$partner_id = get_option("partner_id");
+		//##call endpoint to get partner id
+		$json = $this->queryApi();
+		if( $json == null)
+			$partner_id = '';
 		else
 		{
-			//in case form not submitted
-			$partner_id = get_option("partner_id");
+			$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : '';
 		}
+		
 		require_once $this->_plugin_dir . SB_DS . 'html' . SB_DS . 'admin' . SB_DS . 'settings.php';	
 	}
 	public function addScriptCodeToHead()
 	{
-		$partner_id = get_option("partner_id");
+		$json = $this->queryApi();
 	
+		$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : null;
+		
 		if( $partner_id )
 		{
-			echo '<script src="//widget.upshare.co/up-load.js?partnerid='.$partner_id.'" id="UPWidget"></script>';
+			echo '<script src="//widget.upshare.co/up-load.js" id="UPWidget"></script>';
 		}
 		else
 		{
-			echo '<script src="//widget.upshare.co/up-load.js?" id="UPWidget"></script>';
+			echo '<script src="//widget.upshare.co/up-load.js" id="UPWidget"></script>';
 		}
 	}
 	public function filter_the_content($content)
 	{
 		return '<div id="upinpost-header"></div>'.$content . '<div id="upinpost-footer"></div>';
+	}
+	protected function queryApi()
+	{
+		$parts = parse_url(site_url());
+		$domain = $parts['host'];
+		$url = 'http://partnerapi.upshare.co/partnersdomain/'.$domain;
+		$res = wp_remote_get($url);
+		if( is_wp_error($res) )
+			return null;
+		
+		$json = json_decode($res['body']);
+		return $json;
+		
 	}
 }
 new UP_ViralSharingSocial();
