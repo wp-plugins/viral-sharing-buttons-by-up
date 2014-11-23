@@ -93,7 +93,7 @@
 				<div class="logo"><img src="<?php echo $this->_plugin_url . '/images/logo.png'; ?>">for Wordpress
 				</div>
 				<div class="text-right pull-right">
-					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Sharing Button Widget V3')"><b> Sign Up</b></a>
+					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Sharing Button Widget V3')"><b> Sign Up Free</b></a>
 				</div>
 				<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>">
 				</div>
@@ -107,6 +107,11 @@
 					<p>
 						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 2', 'WP Sharing Button Widget V3') ">Create a free account</a> in less than 30 seconds.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
 					</p>
+					
+					<div class="text-center" style="padding-top:40px;clear:both">
+				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 3', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
+				</div>
+					
 				</div>
 			</div>
 		</section>
@@ -128,7 +133,7 @@
 	            <p>Every user who sees your content needs to recruit one or more users for you.</p>
 	            <p>To make this happen, users need a reason to share. <strong>That’s where we come in.</strong></p>
 	          </div>
-	            <div style="padding-top:20px;"><a class="small-button"  href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 3', 'WP Sharing Button Widget V3')">Create Your Free Account</a></div>
+	            <div style="padding-top:20px;"><a class="small-button"  href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Sharing Button Widget V3')">Create Your Free Account</a></div>
 	        </div>
 	        <div class="col-md-7 video">
 	          <iframe src="//player.vimeo.com/video/105724953?title=0&amp;byline=0&amp;portrait=0" width="565" height="318" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>	
@@ -208,7 +213,7 @@
 				</div>
 				
 				<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
+				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 5', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
 				</div>
 			</div>
 		</section>
@@ -323,7 +328,7 @@
 				</div>
 				
 				<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 5', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
+				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 6', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
 				</div>
 				
 			</div>
@@ -338,7 +343,7 @@
 				<div class="widget-main-content">
 					<h1>Get Your Free UP Partner Account</h1>
 					<p>
-						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 6', 'WP Sharing Button Widget V3') ">Create a free account</a> in less than 30 seconds.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
+						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 7', 'WP Sharing Button Widget V3') ">Create a free account</a> in less than 30 seconds.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
 					</p>
 				</div>
 			</div>
