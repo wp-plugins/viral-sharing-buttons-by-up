@@ -221,7 +221,7 @@ class UP_ViralSharingSocial
 	}
 	public function filter_the_content($content)
 	{
-		return '<div id="upinpost-header"></div>'.$content . '<div id="upinpost-footer"></div>';
+		return '<div id="upinpost-header" style="clear:both"></div>'.$content . '<div id="upinpost-footer" style="clear:both"></div>';
 	}
 	protected function queryApi()
 	{
