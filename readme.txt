@@ -136,6 +136,9 @@ DOWNLOAD VIRAL SHARE BUTTONS PLUGIN BY UP (https://downloads.wordpress.org/plugi
 * Added new incontent sharing button display mode called UPBlog.
 * Added ability to display share counts on network icons
 * Added 10 new placement modes to UPShare widget.
+= 1.0.5 = 
+* Added responsive Mobile sharing mode
+* Added lots of new viral buttons customizations including size, animation, hover effects and more 
 
 == Upgrade Notice ==
 There is no need to upgrade just yet.
