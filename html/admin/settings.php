@@ -11,20 +11,10 @@
 			<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>"></div>
 		</div>
 	</section>
-	<section id="got-widget">
-		<div id="upwrapper">
-			<div class="widget-main-content">
-				<h1>You've got the widget - now go viral with<span> UP </span></h1>
-				<p style="padding-left:40px;padding-right:40px;">
-						
-				</p>
-			</div>
-		</div>
-	</section>
 	<section id="partner-id">
 		<div id="upwrapper">
 			<div class="partner-id-main-contant1">
-				<h1>VISIT YOUR DASHBOARD TO CHOOSE THE PLACEMENT OF YOUR SHARING BUTTONS</h1>
+				<h1>VISIT YOUR DASHBOARD TO CUSTOMIZE YOUR VIRAL SHARING BUTTONS</h1>
 				<div align="center" style="padding-top: 10px;">
 					<a class="partner-botton" href="http://www.upshare.co/partners/home" target="_blank">My Dashboard</a>
 				</div>
@@ -41,14 +31,14 @@
 			<div class="main-widgets-box">
 				<div class="widget-first">
 					<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
-					<h1>Install the Widget</h1>
+					<h1>Install the UP Buttons</h1>
 					<p>
-						UP;s cloud-based responsive sharing widget combines lightening-fast load time with one-of-a-kind value for your users
+						UP;s cloud-based responsive sharing buttons combine lightening-fast load time with one-of-a-kind value for your users
 					</p>
 				</div>
 				<div class="widget-first">
 					<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
-					<h1>Sync your Free Account</h1>
+					<h1>Create Your Account</h1>
 					<p>
 						Sign up as an UP partner for free, then enter your partner ID above to give your users points for sharing your content, 
 						and get access to the UP Partner Dashboard
@@ -62,19 +52,14 @@
 					</p>
 				</div>
 			</div>
+			
+			<p align="center" style="padding-top:20px;clear:both">
+					<a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank" class="learn-more">Learn More About <b>UP</b></a>
+				</p>
+
 		</div>
 	</section>
-	<section id="footer" class="upshare_footer">
-			<div id="upwrapper">
-				<div class="row">
-					<div class="footer-text">
-						<p>
-							<a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank">Learn More About <b>UP</b></a>
-						</p>
-					</div>
-				</div>
-			</div>
-	</section>
+
 </div><!-- end class="wrap" -->
 <?php } else { ?>
 	<!-- Latest compiled and minified CSS -->
