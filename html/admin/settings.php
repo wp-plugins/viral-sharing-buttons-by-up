@@ -6,7 +6,7 @@
 		<div id="upwrapper">
 			<div class="logo"><img src="<?php echo $this->_plugin_url . '/images/logo.png'; ?>">for Wordpress</div>
 			<div class="text-right pull-right" style="display:none;">
-				Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"><b> Sign Up</b></a>
+				Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank"><b> Sign Up</b></a>
 			</div>
 			<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>"></div>
 		</div>
@@ -16,7 +16,7 @@
 			<div class="widget-main-content">
 				<h1>You've got the widget - now go viral with<span> UP </span></h1>
 				<p style="padding-left:40px;padding-right:40px;">
-						Every time users share content from your site, they'll get points they can redeem for cool stuff and you'll get viral data you can't get anywhere else.
+						
 				</p>
 			</div>
 		</div>
@@ -55,20 +55,11 @@
 					</p>
 				</div>
 				<div class="widget-second1">
-					<h1>Select Your Placement</h1>
+					<h1>Customize Your Buttons</h1>
 					<p>
-						Your UP Partner Dashboard gives you quick and easy control over the placement of your sharing buttons, as well as tons 
+						Your UP Partner Dashboard gives you quick and easy control over the look and feel of you sharing buttons, as well as tons 
 						of other powerful features that can help you go viral.
 					</p>
-				</div>
-			</div>
-			<div align="center">
-				<div style="max-width:650px;clear:both;padding-top:20px;">
-
-          <div class="up-video-container">
-          <iframe src="//player.vimeo.com/video/105724953?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>		 
- 
 				</div>
 			</div>
 		</div>
@@ -94,12 +85,12 @@
 	
 	<div class="wrap">
 	
-		<section id="upheader">
+		<section id="upheader" style="padding-top:0px;">
 			<div id="upwrapper">
 				<div class="logo"><img src="<?php echo $this->_plugin_url . '/images/logo.png'; ?>">for Wordpress
 				</div>
 				<div class="text-right pull-right">
-					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Sharing Button Widget V3')"><b> Sign Up Free</b></a>
+					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Sharing Button Widget V4')"><b> Sign Up for Free</b></a>
 				</div>
 				<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>">
 				</div>
@@ -109,256 +100,175 @@
 		<section id="syncfree">
 			<div id="upwrapper">
 				<div class="widget-main-content">
-					<h1>Get Your Free UP Partner Account</h1>
+					<h1>Simple, Powerful Tools to Boost Sharing and Make Your Site More Viral</h1>
 					<p>
-						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 2', 'WP Sharing Button Widget V3') ">Create a free account</a> in less than 30 seconds.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
+						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 2', 'WP Sharing Button Widget V4') ">Create a free account</a> and link your plugin in 60 seconds, no tech wizardry required.
 					</p>
 					
 					<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 3', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
+				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 3', 'WP Sharing Button Widget V4')">Customize My Buttons</a>
 				</div>
+				
+				
+				         <div class="row seen-in">
+          <div class="row asseen">
+              <div class="col-md-3 nopadding">
+                  <p>As seen in:</p>
+              </div>
+          </div>
+          <div class="row asseen-graphics">
+              <div>
+                  <img src="<?php echo $this->_plugin_url . '/images/forbes.jpg'; ?>" class= 'img-responsive' />
+              </div>
+              <div>
+                  <img src="<?php echo $this->_plugin_url . '/images/inc.jpg'; ?>" class= 'img-responsive' />
+              </div>
+              <div>
+                  <img src="<?php echo $this->_plugin_url . '/images/usa-today.jpg'; ?>" style="max-width:56px;" class= 'img-responsive' />
+              </div>
+              <div>
+                  <img src="<?php echo $this->_plugin_url . '/images/money.jpg'; ?>" class= 'img-responsive' />
+              </div>
+              <div>
+                  <img src="<?php echo $this->_plugin_url . '/images/fastcompany.jpg'; ?>" class= 'img-responsive' />
+              </div>
+          </div>
+    </div>
+
 					
 				</div>
 			</div>
 		</section>
 
-	
-	<section id="content">
-			<div id="upwrapper">
-	
-	      <div class="row">
-	        <div class="col-md-12">
-	          <div class="up-copy up-big-copy text-center" style="font-size:55px;padding-top:0px;padding-bottom:20px;">Make Your Site More Viral
-	          </div>
-	        </div>
-	      </div>
-	      <div class="row">
-	        <div class="col-md-5 left-copy" style="padding-top:20px;">
-	          <div class="up-copy up-small-copy">
-	            <p>The formula for going viral is simple:</p>
-	            <p>Every user who sees your content needs to recruit one or more users for you.</p>
-	            <p>To make this happen, users need a reason to share. <strong>That’s where we come in.</strong></p>
-	          </div>
-	            <div style="padding-top:20px;"><a class="small-button"  href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Sharing Button Widget V3')">Create Your Free Account</a></div>
-	        </div>
-	        <div class="col-md-7 video">
-          <div class="up-video-container">
-          <iframe id="updemo" src="//player.vimeo.com/video/105724953?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-		</div>		 
-			 <div align="center" style="padding-top:15px;">
-			  <button id="unmute" class="btn btn-default">Play Sound</button>
-			</div>
-       	</div>
-	      </div>
-	  
-			</div>
-	
-		</section>
-	
-		<!-- block 2 -->
-		<section id="content">
-			<div id="upwrapper">
-				<div class="up-copy up-big-copy">
-					Reward Users for Starting Conversations About Your Content on Social Media
-				</div>
-				<div class="up-copy up-small-copy text-center">
+<div id="upwrapper">
+
+	  <div class="row text-section">
+    <div class="col-md-12 text-center">
+      <h3>
+        Viral Tools You Need, Where You Need Them
+      </h3>
+      <p>Want a set of viral icons to appear on the edge of your users’ screen as they scroll? <strong>No problem.</strong></p>
+
+      <p>How about icons that automatically appear above and below each blog post? <strong>You got it.</strong></p>
+    </div>
+  </div>
+  
+  <div class="row upshare-upblog">
+    <div class="col-md-6">
+      
+      <img src="<?php echo $this->_plugin_url . '/images/upshare.jpg' ?>" class= 'img-responsive' />
+    
+      <h3><span>UP</span>Share</h3>
+      <p>Sharing buttons pinned to the edge of the visitor’s screen as they scroll</p>
+    </div>
+    <div class="col-md-6">
+    
+      <img src="<?php echo $this->_plugin_url . '/images/upblog.jpg'?>" class= 'img-responsive' />
+    
+      <h3><span>UP</span>Blog</h3>
+      <p>Sharing buttons auto-appear below your headline and below your articles</p>
+    </div>
+  </div>
+  
+  
+  
+    <div class="row quote">
+    <div class="col-md-12">
+        <h3><img src="<?php echo $this->_plugin_url . '/images/quote.jpg'?>" /> &nbsp;...If you're a social diva, this one's for you.”</h3>
+        
+        <div class="author">
+        
+        <p>Jennifer Jolly,  USA Today</p>
+        <img src="<?php echo $this->_plugin_url . '/images/usa-today-lg.jpg'?>" />
+      </div>  
+     </div>
+  </div>
+  
+    <div class="row text-section">
+    <div class="col-md-12 text-center">
+      <h3>
+        Customize Icon Size, Style, Animation and More
+      </h3>
+      <p>You’ve worked hard to get your site to look the way you want it to for your users.</p>
+
+      <p>With dozens of customization options, you can <strong>get more shares, and look good doing it.</strong></p>
+      
+      <img src="<?php echo $this->_plugin_url . '/images/customize.jpg'?>" class="img-responsive" />
+      
+    </div>
+  </div>
+  
+      <div class="row quote">
+    <div class="col-md-12">
+        <h3><img src="<?php echo $this->_plugin_url . '/images/quote.jpg'?>" />&nbsp;...I've had it installed on all my sites since the day I found it."</h3>
+        
+        <div class="author">
+        
+        <p>Stacy Dee, GiftIdeasForGardeners.com</p>
+        <img src="<?php echo $this->_plugin_url . '/images/stacy.jpg'?>" />
+      </div>  
+     </div>
+  </div>
+  
+  
+      <div class="row text-section">
+    <div class="col-md-12 text-center">
+      <h3>
+        Quick and Easy to Install, Change On The Fly in Seconds
+      </h3>
+      <p style="max-width:700px;">Getting set up is as easy as installing our plugin on <a href="https://wordpress.org/plugins/viral-sharing-buttons-by-up/" target="_Blank">Wordpress</a> or <a href="https://apps.shopify.com/viral-social-media-buttons-by-up" target="_Blank">Shopify</a>, or dropping one line of code onto any site (we’ll walk you through this).</p>
+
+      <p>Then change the look, feel, position and behavior of your viral icons <strong>in seconds.</strong></p>
+      
+      <img src="<?php echo $this->_plugin_url . '/images/customize-2.jpg'?>"  class="img-responsive"/>
+      
+    </div>
+  </div>
+  
+  
+    <div class="row widget">
+    <div class="col-md-9 col-md-offset-2">
+      <img src="<?php echo $this->_plugin_url . '/images/partner-widget.png'?>" %>
+
+		
+
+      <div class="right-col">
+        <h3>Viral Buttons that NEVER Slow Down Your Site</h3>
+        
+        <p>Users won’t share a slow site, so we make our tools as lightening fast as possible.</p>
+        <ul style="">
+          <li>153 kb size*</li>
+
+          <li>Lightening fast load time</li>
+
+          <li>Perfect Google PageScore</li>
+        </ul>
+        <p>* verified by Pingdom</p>
+
+      </div>
+
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-9 col-md-offset-2">
+  				<div class="widget-main-content">
+					<h1>Make Your Site More Viral in 60 Seconds</h1>
 					<p>
-						Every time your users share your content, they get points they can cash in for cool stuff in our store
+						Start Customizing Your Viral Buttons for Free, No Tech Wizardry Required
 					</p>
-					<p>
-						As their friends interact with that share, their points go up - <strong>and so does your traffic</strong>.
-					</p>
-				</div>
-			</div>
-		</section>
-		<section id="content">
-			<div id="upwrapper">
-				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-					<!-- Indicators -->
-					<ol class="carousel-indicators">
-						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-					</ol>
-					<!-- Wrapper for slides -->
-					<div class="carousel-inner">
-						<div class="item active">
-							<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-slider-1.png'; ?>">
-						</div>
-						<div class="item">
-							<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-slider-2.png'; ?>">
-						</div>
-						<div class="item">
-							<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-slider-3.png'; ?>">
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	
-		<section id="content" style="margin-top:-70px;">
-			<div id="upwrapper">
-	
-				<div class="main-widgets-box">
-					<div class="widget-first">
-						<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
-						<h1>Install the Widget</h1>
-						<p>
-							UP;s cloud-based responsive sharing widget combines lightening-fast load time with one-of-a-kind value for your users
-						</p>
-	
-					</div>
-					<div class="widget-second">
-						<h1>Create Your Free Account</h1>
-						<p>
-							Sign up as an UP partner for free so that your users get points for sharing your content, and get access to the UP Partner Dashboard
-						</p>
-	
-					</div>
-					<div class="widget-third">
-						<h1>Select Your Placement</h1>
-					<p>
-						Your UP Partner Dashboard gives you quick and easy control over the placement of your sharing buttons, as well as tons of other powerful features that can help you go viral.
-					</p>
-					</div>
+					
+					<div class="text-center" style="padding-top:40px;clear:both">
+				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Sharing Button Widget V4')">Customize My Buttons</a>
 				</div>
 				
-				<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 5', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
+					
 				</div>
-			</div>
-		</section>
-	
-	
-	
-		<!-- end block 2 -->
-		<!-- begin block 3 -->
-		<section id="content">
-			<div id="upwrapper">
-				<div class="row">
-					<div class="col-md-11 left-copy text-center">
-						<div class="up-copy up-big-copy">
-							Responsive, Lightening Fast Sharing Tools - Free
-						</div>
-						<div class="up-copy up-small-copy">
-							<p>
-								Get to know your users better than ever before with sharing data, geolocation, hashtag tracking, rewards analytics, and our Viral Achievements&trade; feature.
-							</p>
-							<p>
-								Hear what your fans and followers are saying about you in real time with your viral activity feed.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-11">
-						<div id="metrics-carousel-div" class="carousel slide" data-ride="carousel">
-							<!-- Indicators -->
-							<ol class="carousel-indicators">
-								<li data-target="#metrics-carousel-div" data-slide-to="0" class="active"></li>
-								<li data-target="#metrics-carousel-div" data-slide-to="1"></li>
-								<li data-target="#metrics-carousel-div" data-slide-to="2"></li>
-								<li data-target="#metrics-carousel-div" data-slide-to="3"></li>
-								<li data-target="#metrics-carousel-div" data-slide-to="4"></li>
-							</ol>
-							<!-- Wrapper for slides -->
-							<div class="carousel-inner" id="metrics-carousel">
-								<div class="item active">
-									<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-metrics-slider-1.png'; ?>">
-								</div>
-								<div class="item">
-									<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-metrics-slider-2.png'; ?>">
-								</div>
-								<div class="item">
-									<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-metrics-slider-3.png'; ?>">
-								</div>
-								<div class="item">
-									<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-metrics-slider-4.png'; ?>">
-								</div>
-								<div class="item">
-									<img class="img-responsive text-center center-block" src="<?php echo $this->_plugin_url . '/images/partner-metrics-slider-5.png'; ?>">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- end block 3 -->
-		<!-- begin block 4 -->
-	
-		<section id="content" style="margin-top:-40px;">
-			<div id="upwrapper">
-				<div class="row">
-					<div class="col-md-11 left-copy text-center">
-						<div class="up-copy up-big-copy">
-							Users Join UP With One Click Without Ever Leaving Your Site - and Earn Points Forever
-						</div>
-						<div class="up-copy up-small-copy">
-							<p>
-								Our responsive, cloud-based sharing widgets maximize sharing and data simultaneously.
-							</p>
-							<p>
-								Users can sign up to get rewards for sharing with one click - without ever leaving your site.</br>
-								From there, they share your content more often, and you get the data you need to win.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="row" style="padding-top:20px;">
-					<div class="col-md-9 col-md-offset-2">
-						<img src="<?php echo $this->_plugin_url . '/images/partner-widget.png'; ?>">
-	
-						<div style="float:right;width:80%">
-							<div class="up-copy up-big-copy" style="text-align: left">
-								Industry-Leading Widget Performance Stats
-							</div>
-							<p>
-								You never want a widget that slows down your site, and you can rest assured that UP never will.
-							</p>
-							<ul style="margin-top: 25px;margin-bottom: 20px;">
-								<li style="line-height: 40px;">
-									153 kb size*
-								</li>
-	
-								<li style="line-height: 40px;">
-									Lightening fast load time
-								</li>
-	
-								<li style="line-height: 40px;">
-									Perfect Google PageScore
-								</li>
-							</ul>
-							<p>
-								* verified by Pingdom
-							</p>
-	
-						</div>
-	
-					</div>
-				</div>
-				
-				<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 6', 'WP Sharing Button Widget V3')">Create Your Free Account</a>
-				</div>
-				
-			</div>
-		</section>
-		<!-- end block 4 -->
-		<!-- begin block 5 -->
-	
-		<!-- end block 5 -->
-	
-	<section id="syncfree" style="margin-top:0px;">
-			<div id="upwrapper">
-				<div class="widget-main-content">
-					<h1>Get Your Free UP Partner Account</h1>
-					<p>
-						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v3#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 7', 'WP Sharing Button Widget V3') ">Create a free account</a> in less than 30 seconds.  Now every time users share content from your site, they’ll get points they can redeem for cool stuff and you’ll get viral data you can’t get anywhere else online.
-					</p>
-				</div>
-			</div>
-		</section>
+				 </div>
+  </div>
+  
+  
+</div>
+
 	
 	</div>
 	<script>
@@ -375,57 +285,9 @@
 		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 	
 		ga('create', 'UA-47573483-1', 'auto');
-		ga('send', 'event', 'Widget Settings', 'Page View', 'WP Sharing Button Widget V3')
+		ga('send', 'event', 'Widget Settings', 'Page View', 'WP Sharing Button Widget V4')
 		
-		var player = jQuery('#updemo');
-    var url = window.location.protocol + player.attr('src').split('?')[0];
-    var status = jQuery('.status');
-
-    // Listen for messages from the player
-    if (window.addEventListener){
-        window.addEventListener('message', onMessageReceived, false);
-    }
-    else {
-        window.attachEvent('onmessage', onMessageReceived, false);
-    }
-
-    // Handle messages received from the player
-    function onMessageReceived(e) {
-        var data = JSON.parse(e.data);
-        
-        switch (data.event) {
-            case 'ready':
-                onReady();
-                break;
-        }
-    }
-   
-    jQuery('#unmute').on('click', function() {
-        post('setVolume', "0.5");
-        jQuery(this).hide();
-        
-        ga('send', 'event', 'Widget Settings', 'Play Sound Click', 'WP Sharing Button Widget V3')
-    });
-
-
-    // Helper function for sending a message to the player
-    function post(action, value) {
-        var data = {
-          method: action
-        };
-        
-        if (value) {
-            data.value = value;
-        }
-        
-        var message = JSON.stringify(data);
-        player[0].contentWindow.postMessage(data, url);
-    }
-
-    function onReady() {       
-		post('play');
-		post('setVolume', "0");		
-    }
+		
 	</script>
 	<?php
 	}

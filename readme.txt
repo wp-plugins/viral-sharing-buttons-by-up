@@ -10,7 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The Viral Sharing Buttons from UP change the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff. 
 
 == Description ==
-[vimeo http://vimeo.com/105724953]
 
 = Viral Share Buttons = 
 Get more traffic on your site and increase viral interaction by installing the UP Viral Share Buttons! Unlike your normal, everyday Sharing Buttons, UP’s proprietary technology has been designed to help make your site more Viral.
