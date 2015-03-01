@@ -120,6 +120,8 @@ DOWNLOAD VIRAL SHARE BUTTONS PLUGIN BY UP (https://downloads.wordpress.org/plugi
 == Screenshots ==
  
 1. Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
+2.
+3.
 
 == Changelog ==
 = 1.0.1 = 
