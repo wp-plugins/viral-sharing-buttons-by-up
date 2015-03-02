@@ -76,7 +76,7 @@ class UP_ViralSharingSocial
 			if($upshare_notice == "")
 			{
 				echo '<div class="updated" id="upshare_notice">'.
-						'<p><strong>Note</strong> - To customize the look, feel and behavior of your viral buttons you need to create a free <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">UP account</a>.<br/><br/>'.
+						'<p><strong>Note</strong> - To customize the look, feel and behavior of your new viral buttons you need to create a free <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">UP account</a>.<br/><br/>'.
 						'<a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">Sign up here </a>  |  '.
 						'<a href="" id="closeNotice" onclick="return removeNotice();">Ignore this notice</a>'.
 						'</p></div>';
