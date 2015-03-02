@@ -7,7 +7,7 @@ Plugin Name: Viral Sharing Buttons by UP
 Version: 1.0.5
 Author: UP
 Author URI: http://www.upshare.co
-Description: The Viral Sharing Buttons from UP change the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff.
+Description: The Viral Sharing Buttons from UP change the way sites go viral. With our responsive, cloud-based, fully customizable viral buttons, you can automatically drive more traffic to your site for free.
 License: GPLv2 or later
 */
 
@@ -76,8 +76,8 @@ class UP_ViralSharingSocial
 			if($upshare_notice == "")
 			{
 				echo '<div class="updated" id="upshare_notice">'.
-						'<p>Note - Users will only get rewarded for sharing your content if you sign up as a UP Partner.<br/>'.
-						'<a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank"> Sign up here </a>  |  '.
+						'<p><strong>Note</strong> - To customize the look, feel and behavior of your viral buttons you need to create a free <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">UP account</a>.<br/><br/>'.
+						'<a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">Sign up here </a>  |  '.
 						'<a href="" id="closeNotice" onclick="return removeNotice();">Ignore this notice</a>'.
 						'</p></div>';
 			}

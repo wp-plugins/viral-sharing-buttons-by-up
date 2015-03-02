@@ -132,9 +132,9 @@
       <h3>
         Viral Tools You Need, Where You Need Them
       </h3>
-      <p>Want a set of viral icons to appear on the edge of your users’ screen as they scroll? <strong>No problem.</strong></p>
+      <p>Want a set of viral buttons to appear on the edge of your users’ screen as they scroll? <strong>No problem.</strong></p>
 
-      <p>How about icons that automatically appear above and below each blog post? <strong>You got it.</strong></p>
+      <p>How about buttons that automatically appear above and below each blog post? <strong>You got it.</strong></p>
     </div>
   </div>
   
