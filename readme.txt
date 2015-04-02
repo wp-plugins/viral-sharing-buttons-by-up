@@ -20,7 +20,7 @@ Users don’t even need to share using the share buttons for you to get incredib
 
 UP’s points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient. UP’s customizable platform and Viral Sharing Buttons help you optimize your content, blog posts and pages for more social sharing engagement, and a wider viral reach.
 
-What’s more - by signing up as an [UP Partner](https://www.upshare.co/partners/sign_up?origin=wp) for free, you can change the placement of your Viral Sharing Buttons, and you also get access to demographic data and viral sharing behavior to help you get to know your most viral users, and turn your visitors into social evangelists.
+What’s more - by signing up as an UP Partner for free, you can change the placement of your Social Buttons, and also get access to demographic data and social sharing behavior to help you get to know your most viral users, and turn your visitors into social media evangelists.
 
 You don’t just want people sharing your content – you want them to start CONVERSATIONS around your content that their social networks engage in and share. You also want your site to be PROMOTED to other users who are sharing similar sites on their social networks and social media accounts. Viral Sharing buttons are a great first step, but unlike other Sharing Button widgets, UP doesn’t stop there.
 
@@ -38,7 +38,7 @@ DOWNLOAD VIRAL SHARE BUTTONS PLUGIN BY UP (https://downloads.wordpress.org/plugi
 *   Easily controlled from your UP dashboard
 *   One-click install, or easy-to-implement shortcode
 *   Never impedes your content
-*   [Click here for a live demo](http://blog.upshare.co/sharing-buttons-demo/)
+*   [Click here for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress)
 
 = Lightening Fast =
 
@@ -84,32 +84,31 @@ DOWNLOAD VIRAL SHARE BUTTONS PLUGIN BY UP (https://downloads.wordpress.org/plugi
 <li>Go to the “Add New Plugins” screen in your WordPress admin area</li>
 <li>Search for “UP Sharing Buttons”</li>
 <li>Click Install Now</li>
-<li>Activate the plugin/li>
-<li>Open the Plugin Settings page</li>
-<li>Click the Create Partner account link – and enjoy!</li>
+<li>Activate the plugin</li>
+<li>Browse to your site's homepage</li>
+<li>Click on the green UP Arrow in the top right and follow the instructions</li>
 </ol>
 
 <h4>Manual installation via FTP:</h4>
 
 <ol>
 <li>Upload the upshare folder to the `/wp-content/plugins/` directory</li>
-<li>Follow steps 4-7 above.</li>
+<li>Follow steps 4-6 above.</li>
 </ol>
 
 <h4>To upload the plugin through WordPress, instead of FTP:</h4>
 
 <ol>
 <li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area.</li>
-<li>Follow steps 4-7 above.</li>
+<li>Follow steps 4-6 above.</li>
 </ol>
 
 <h4>Skip the plugin and install the JavaScript snippet directly into your HTML:</h4>
 
 <ol>
-<li>Navigate to <a href="https://www.upshare.co/partners" target="_Blank">www.upshare.co/partners/sign_up</a>.</li>
-<li>Fill out the short form to create your free partner account</li>
+<li>Navigate to <a href="http://www.upshare.co/partners/setup" target="_Blank">http://www.upshare.co/partners/setup</a>.</li>
 <li>Grab your JavaScript snippet from the following page</li>
-<li>Navigate to the Editor screen in your WordPress admin panel/li>
+<li>Navigate to the Editor screen in your WordPress admin panel</li>
 <li>Pull up the Header file from the list on the right</li>
 <li>Paste your JavaScript snippet right before the closing </head> tag in your Header file</li>
 <li>Save the file</li>
