@@ -14,6 +14,10 @@ The Viral Sharing Buttons from UP change the way sites go viral. With our respon
 = Viral Share Buttons = 
 Get more shares on your content and increase your site’s viral growth by installing the UP Viral Sharing Buttons plugin! Unlike your normal, everyday Sharing Buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time. 
 
+[>> CLICK HERE for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress.com)
+
+[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-sharing-buttons-by-up.zip)
+
 With UP Viral Sharing Buttons, as users start Sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
 
 You can also turn OFF the UP icon if you simply want simple, cloud-based, responsive sharing buttons that work on the web and mobile WITHOUT sharing incentives.
@@ -30,8 +34,9 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized social media sharing!
 
+[>> CLICK HERE for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress.com)
 
-DOWNLOAD VIRAL SHARE BUTTONS PLUGIN BY UP (https://downloads.wordpress.org/plugin/viral-sharing-buttons-by-up.zip)
+[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-sharing-buttons-by-up.zip)
 
 = Custom Sharing Buttons Placement =
 
@@ -41,12 +46,12 @@ DOWNLOAD VIRAL SHARE BUTTONS PLUGIN BY UP (https://downloads.wordpress.org/plugi
 *   Easily controlled from your UP dashboard
 *   One-click install, or easy-to-implement shortcode
 *   Never impedes your content
-*   [Click here for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress)
+
 
 = Lightening Fast =
 
-*   < 190 ms load time
-*   < 150 kb in size
+*   < 150 ms load time
+*   150 kb in size
 *   Perfect Google Pagespeed score
 *   Value-add for both site owners AND users (no other sharing widget provides this)
 
