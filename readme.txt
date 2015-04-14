@@ -3,11 +3,11 @@ Contributors: upshare
 Tags: add to any, AddThis, addtoany, admin, bitly, bookmark, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, e-mail, email, Facebook, facebook like, facebook share, floating, floating buttons, google, google +1, google plus, google plus one, icon, icons, image, images, Like, linkedin, links, lockerz, page, pages, plugin, plus 1, plus one, Post, posts, print, Reddit, responsive, save, seo, Share, sharebar, sharing buttons, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social share, social sharing, socialize, statistics, stats, stumbleupon, svg, tumblr, tweet, tweet button, twitter, twitter button, twitter share, vector, wanelo, whatsapp, widget, widgets, wpmu
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Viral Sharing Buttons from UP change the way sites go viral. With our responsive, cloud-based, fully customizable viral buttons, you can automatically drive more traffic to your site for free.
+Simple, powerful tools to boost sharing and make your site more viral.
 
 == Description ==
 
@@ -42,7 +42,6 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 *   Easily controlled from your UP dashboard
 *   One-click install, or easy-to-implement shortcode
 *   Never impedes your content
-
 
 = Lightening Fast =
 
@@ -142,6 +141,9 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 * Added lots of new viral buttons customizations including size, animation, hover effects and more 
 = 1.0.6 = 
 * Added new Shape and Style customizations options.
+= 1.0.7 = 
+* Added URL Exclude feature so UpSHare can be hidden on certain pages
+
 
 == Upgrade Notice ==
 There is no need to upgrade just yet.
