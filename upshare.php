@@ -7,7 +7,7 @@ Plugin Name: Viral Sharing Buttons by UP
 Version: 1.0.7
 Author: UP
 Author URI: http://www.upshare.co
-Description: Simple, powerful tools to boost sharing and make your site more viral.
+Description: Simple, powerful sharing buttons to boost sharing and make your site more viral.
 License: GPLv2 or later
 */
 
@@ -244,7 +244,10 @@ function viral_share_footer(){
 echo '<!-- Viral Sharing Buttons by www.upshare.co, more info here https://www.upshare.co/partners/sign_up -->';
 echo '<link rel="stylesheet" href="//assets.upshare.co/widget-b/widget.css" type="text/css" media="all" />';
 echo '<div id="up-branding">Viral <a target="_blank" href="http://www.upshare.co/sharing/">Sharing</a> by UP</div>';
-echo '<script src="//widget.upshare.co/up-load.js?signupArrow=true&cms=wp" id="UPWidget"></script>';
+echo '<input class="up" type="hidden" name="cms" value="wp">';
+echo '<input class="up" type="hidden" name="signupArrow" value="true">';
+echo '<div id="up-branding">Viral <a target="_blank" href="http://www.upshare.co/sharing/">Sharing</a> by UP</div>';
+echo '<script src="//widget.upshare.co/up-load.js"></script>';
 
  } 
 add_action( 'wp_footer', 'viral_share_footer', 5 );
