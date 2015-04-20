@@ -50,7 +50,7 @@ class UP_ViralSharingSocial
 		}
 		else
 		{
-			//add_action('wp_head' , array($this, 'addScriptCodeToHead'));
+			add_action('wp_head' , array($this, 'addScriptCodeToHead'));
 		}
 	}
 	public function addFilters()
@@ -238,16 +238,6 @@ class UP_ViralSharingSocial
 		
 	}
 }
-
-function viral_share_footer(){
-
-echo '<!-- Viral Sharing Buttons by www.upshare.co, more info here https://www.upshare.co/partners/sign_up -->';
-echo '<input class="up" type="hidden" name="cms" value="wp">';
-echo '<input class="up" type="hidden" name="signupArrow" value="true">';
-echo '<script src="//widget.upshare.co/up-load.js"></script>';
-
- } 
-add_action( 'wp_footer', 'viral_share_footer', 5 );
 
 new UP_ViralSharingSocial();
 register_deactivation_hook(__FILE__, array('UP_ViralSharingSocial', 'myplugin_deactivation'));
