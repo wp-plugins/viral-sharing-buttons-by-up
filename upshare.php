@@ -242,11 +242,8 @@ class UP_ViralSharingSocial
 function viral_share_footer(){
 
 echo '<!-- Viral Sharing Buttons by www.upshare.co, more info here https://www.upshare.co/partners/sign_up -->';
-echo '<link rel="stylesheet" href="//assets.upshare.co/widget-b/widget.css" type="text/css" media="all" />';
-echo '<div id="up-branding">Viral <a target="_blank" href="http://www.upshare.co/sharing/">Sharing</a> by UP</div>';
 echo '<input class="up" type="hidden" name="cms" value="wp">';
 echo '<input class="up" type="hidden" name="signupArrow" value="true">';
-echo '<div id="up-branding">Viral <a target="_blank" href="http://www.upshare.co/sharing/">Sharing</a> by UP</div>';
 echo '<script src="//widget.upshare.co/up-load.js"></script>';
 
  } 
