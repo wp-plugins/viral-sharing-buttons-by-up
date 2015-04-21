@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Viral Sharing Buttons by UP
-Version: 1.0.7
+Version: 1.0.8
 Author: UP
 Author URI: http://www.upshare.co
 Description: Simple, powerful sharing buttons to boost sharing and make your site more viral.
@@ -20,7 +20,8 @@ class UP_ViralSharingSocial
 	public function __construct()
 	{
 		$this->_plugin_dir = dirname(__FILE__);
-		$this->_plugin_url = get_site_url(null, '/wp-content/plugins/') . basename($this->_plugin_dir);
+		//changed hardcoded path
+		$this->_plugin_url = plugin_dir_url(__FILE__);
 		$this->addActions();
 		$this->addFilters();
 	}
@@ -213,11 +214,20 @@ class UP_ViralSharingSocial
 		
 		if( $partner_id )
 		{
-			echo '<script src="//widget.upshare.co/up-load.js?signupArrow=true&cms=wp" id="UPWidget"></script>';
+		//used Wordpress functions to call JS
+        wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js");
+		wp_enqueue_script( 'UPWidget' );
+	    echo '<input class="up" type="hidden" name="cms" value="wp">';
+        echo '<input class="up" type="hidden" name="signupArrow" value="true">';
 		}
 		else
 		{
-			echo '<script src="//widget.upshare.co/up-load.js?signupArrow=true&cms=wp" id="UPWidget"></script>';
+		//used Wordpress functions to call JS
+		wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js");
+		wp_enqueue_script( 'UPWidget' );
+	    echo '<input class="up" type="hidden" name="cms" value="wp">';
+        echo '<input class="up" type="hidden" name="signupArrow" value="true">';
+            
 		}
 	}
 	public function filter_the_content($content)
@@ -242,3 +252,21 @@ class UP_ViralSharingSocial
 new UP_ViralSharingSocial();
 register_deactivation_hook(__FILE__, array('UP_ViralSharingSocial', 'myplugin_deactivation'));
 register_activation_hook(__FILE__, array('UP_ViralSharingSocial', 'myplugin_activation'));
+
+function load_bootstrap($hook) {
+
+ if ( 'toplevel_page_upshare-settings-page' != $hook ) {
+        return;
+    }
+        //Latest compiled and minified CSS 
+	    //Used Wordpress functions to call bootstrap CSS
+        wp_register_style( 'bootstrapcss', 'https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css');
+		wp_enqueue_style( 'bootstrapcss' );
+		
+		//Latest compiled and minified JavaScript
+	    //Used Wordpress functions to call bootstrap JS
+	    wp_register_script( 'bootstrapjs', 'https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js');
+        wp_enqueue_script( 'bootstrapjs' ); 
+       } 
+	   add_action( 'admin_enqueue_scripts', 'load_bootstrap' );
+	  

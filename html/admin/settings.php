@@ -59,11 +59,12 @@
 
 </div><!-- end class="wrap" -->
 <?php } else { ?>
-	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css">
 	
-	<!-- Latest compiled and minified JavaScript -->
-	<script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+	
+
+	
+	
 	
 <div class="wrap">
 	
