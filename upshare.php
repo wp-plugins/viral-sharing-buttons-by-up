@@ -210,25 +210,14 @@ class UP_ViralSharingSocial
 	{
 		$json = $this->queryApi();
 	
-		$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : null;
+		//$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : null;
 		
-		if( $partner_id )
-		{
-		//used Wordpress functions to call JS
-        wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js");
-		wp_enqueue_script( 'UPWidget' );
-	    echo '<input class="up" type="hidden" name="cms" value="wp">';
-        echo '<input class="up" type="hidden" name="signupArrow" value="true">';
-		}
-		else
-		{
 		//used Wordpress functions to call JS
 		wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js");
 		wp_enqueue_script( 'UPWidget' );
 	    echo '<input class="up" type="hidden" name="cms" value="wp">';
         echo '<input class="up" type="hidden" name="signupArrow" value="true">';
-            
-		}
+		
 	}
 	public function filter_the_content($content)
 	{
@@ -260,12 +249,12 @@ function load_bootstrap($hook) {
     }
         //Latest compiled and minified CSS 
 	    //Used Wordpress functions to call bootstrap CSS
-        wp_register_style( 'bootstrapcss', 'https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css');
+        wp_register_style( 'bootstrapcss', $this->_plugin_url . '/css/bootstrap.min.css');
 		wp_enqueue_style( 'bootstrapcss' );
 		
 		//Latest compiled and minified JavaScript
 	    //Used Wordpress functions to call bootstrap JS
-	    wp_register_script( 'bootstrapjs', 'https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js');
+	    wp_register_script( 'bootstrapjs', $this->_plugin_url . '/js/bootstrap.min.js');
         wp_enqueue_script( 'bootstrapjs' ); 
        } 
 	   add_action( 'admin_enqueue_scripts', 'load_bootstrap' );
