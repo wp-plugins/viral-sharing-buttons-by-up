@@ -143,7 +143,7 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 * Added new Shape and Style customizations options.
 = 1.0.7 = 
 * Added URL Exclude feature so UpSHare can be hidden on certain pages
-= 1.0.7 = 
+= 1.0.8 = 
 * Improved stability of plugin code.
 
 == Upgrade Notice ==
