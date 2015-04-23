@@ -3,7 +3,7 @@ Contributors: upshare
 Tags: button, facebook, floating buttons, google, linkedin, share, sharebar, social, sharing buttons, twitter button, widgets 
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.8
+Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -145,6 +145,8 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 * Added URL Exclude feature so UpSHare can be hidden on certain pages
 = 1.0.8 = 
 * Improved stability of plugin code.
+= 1.0.9 = 
+* Fixed fatal error on plugin settings page.
 
 == Upgrade Notice ==
 There is no need to upgrade just yet.

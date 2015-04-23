@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Viral Sharing Buttons by UP
-Version: 1.0.8
+Version: 1.0.9
 Author: UP
 Author URI: http://www.upshare.co
 Description: Simple, powerful sharing buttons to boost sharing and make your site more viral.
@@ -213,10 +213,11 @@ class UP_ViralSharingSocial
 		//$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : null;
 		
 		//used Wordpress functions to call JS
-		wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js");
+		wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js?mode=2");
 		wp_enqueue_script( 'UPWidget' );
 	    echo '<input class="up" type="hidden" name="cms" value="wp">';
         echo '<input class="up" type="hidden" name="signupArrow" value="true">';
+
 		
 	}
 	public function filter_the_content($content)
@@ -249,12 +250,12 @@ function load_bootstrap($hook) {
     }
         //Latest compiled and minified CSS 
 	    //Used Wordpress functions to call bootstrap CSS
-        wp_register_style( 'bootstrapcss', $this->_plugin_url . '/css/bootstrap.min.css');
+        wp_register_style( 'bootstrapcss', plugin_dir_url(__FILE__) . '/css/bootstrap.min.css');
 		wp_enqueue_style( 'bootstrapcss' );
 		
 		//Latest compiled and minified JavaScript
 	    //Used Wordpress functions to call bootstrap JS
-	    wp_register_script( 'bootstrapjs', $this->_plugin_url . '/js/bootstrap.min.js');
+	    wp_register_script( 'bootstrapjs', plugin_dir_url(__FILE__)  . '/js/bootstrap.min.js');
         wp_enqueue_script( 'bootstrapjs' ); 
        } 
 	   add_action( 'admin_enqueue_scripts', 'load_bootstrap' );
