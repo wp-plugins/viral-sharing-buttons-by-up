@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Viral Sharing Buttons by UP
-Version: 1.0.9
+Version: 1.0.10
 Author: UP
 Author URI: http://www.upshare.co
 Description: Simple, powerful sharing buttons to boost sharing and make your site more viral.
