@@ -13,7 +13,7 @@
 			<div class="partner-id-main-contant1">
 				<h1>VISIT YOUR DASHBOARD TO CUSTOMIZE YOUR VIRAL SHARING BUTTONS</h1>
 				<div align="center" style="padding-top: 10px;">
-					<a class="partner-botton" href="http://www.upshare.co/partners/home" target="_blank">My Dashboard</a>
+					<a class="partner-botton" href="http://www.upshare.co/partners/area/" target="_blank">My Dashboard</a>
 				</div>
 			</div>
 		</div>
@@ -28,30 +28,29 @@
 			<div class="main-widgets-box">
 				<div class="widget-first">
 					<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
-					<h1>Install the UP Buttons</h1>
+					<h1>Install the Upshare Buttons</h1>
 					<p>
-						UP;s cloud-based responsive sharing buttons combine lightening-fast load time with one-of-a-kind value for your users
+						Upshare's cloud-based responsive sharing buttons combine lightening-fast load time with one-of-a-kind value for your users
 					</p>
 				</div>
 				<div class="widget-first">
 					<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
 					<h1>Create Your Account</h1>
 					<p>
-						Sign up as an UP partner for free, then enter your partner ID above to give your users points for sharing your content, 
-						and get access to the UP Partner Dashboard
+						Sign up as an Upshare partner for free and get access to the Partner Dashboard
 					</p>
 				</div>
 				<div class="widget-second1">
 					<h1>Customize Your Buttons</h1>
 					<p>
-						Your UP Partner Dashboard gives you quick and easy control over the look and feel of you sharing buttons, as well as tons 
+						Your Upshare Partner Dashboard gives you quick and easy control over the look and feel of you sharing buttons, as well as tons 
 						of other powerful features that can help you go viral.
 					</p>
 				</div>
 			</div>
 			
 			<p align="center" style="padding-top:20px;clear:both">
-					<a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank" class="learn-more">Learn More About <b>UP</b></a>
+					<a href="https://www.upshare.co" target="_blank" class="learn-more">Learn More About <b>Upshare</b></a>
 				</p>
 
 		</div>
@@ -59,14 +58,8 @@
 
 </div><!-- end class="wrap" -->
 <?php } else { ?>
-	
-
-	
-
-	
-	
-	
-<div class="wrap">
+		
+	<div class="wrap">
 	
 		<section id="upheader" style="padding-top:0px;">
 			<div id="upwrapper">
@@ -96,7 +89,7 @@ Viral Buttons in 2 Easy Steps</h1>
       <img src="<?php echo $this->_plugin_url . '/images/step1.jpg' ?>" class= 'img-responsive' />
     
       <h3>Click the Green Arrow</h3>
-      <p>This helps our system see that UP is installed correctly on your URL</p>
+      <p>This helps our system see that Upshare is installed correctly on your URL</p>
     </div>
     <div class="col-md-6">
     
@@ -157,15 +150,32 @@ Viral Buttons in 2 Easy Steps</h1>
       
       <img src="<?php echo $this->_plugin_url . '/images/upshare.jpg' ?>" class= 'img-responsive' />
     
-      <h3>Floating</h3>
+      <h3>Floating Share</h3>
       <p>Sharing buttons pinned to the edge of the visitor’s screen as they scroll</p>
     </div>
     <div class="col-md-6">
     
       <img src="<?php echo $this->_plugin_url . '/images/upblog.jpg'?>" class= 'img-responsive' />
     
-      <h3>In Content</h3>
+      <h3>In Content Share</h3>
       <p>Sharing buttons auto-appear below your headline and below your articles</p>
+    </div>
+  </div>
+  
+  <div class="row upshare-upblog" style="padding-top:30px;">
+    <div class="col-md-6">
+      
+      <img src="<?php echo $this->_plugin_url . '/images/upreward.jpg' ?>" class= 'img-responsive' />
+    
+      <h3>Sharing Rewards</h3>
+      <p>Give users a reason to share with a reward users can unlock by sharing</p>
+    </div>
+    <div class="col-md-6">
+    
+      <img src="<?php echo $this->_plugin_url . '/images/upfollow.jpg'?>" class= 'img-responsive' />
+    
+      <h3>Floating Follow</h3>
+      <p>Stay fresh in your users’ minds with an easy way to become a fan or follower</p>
     </div>
   </div>
   
@@ -267,7 +277,7 @@ Viral Buttons in 2 Easy Steps</h1>
       <img src="<?php echo $this->_plugin_url . '/images/step1.jpg' ?>" class= 'img-responsive' />
     
       <h3>Click the Green Arrow</h3>
-      <p>This helps our system see that UP is installed correctly on your URL</p>
+      <p>This helps our system see that Upshare is installed correctly on your URL</p>
     </div>
     <div class="col-md-6">
     
